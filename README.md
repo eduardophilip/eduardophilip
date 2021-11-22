@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working at [IPC Logística](https://icplogistica.pt/)
 
-- 👨‍💻 All of my projects are available at [eduardophilip.github](https://github.com/eduardophilip)
+- 👨‍💻 All of my projects are available at [eduardophilip.github](https://github.com/eduardophilip?tab=repositories)
 
 <br><br>
 

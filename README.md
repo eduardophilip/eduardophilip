@@ -1,7 +1,7 @@
 
 <img align="right" height="440px" width="276px" src="https://user-images.githubusercontent.com/64706973/142876845-971cde61-aa86-49ec-84e9-99353ca83a44.png">
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Eduard Philip</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Eduardo Philip</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardophilip&color=blue" alt="Profile views" /> </p>
 

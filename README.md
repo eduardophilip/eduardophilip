@@ -9,7 +9,7 @@
 
 - Focused on javascript ecosystem like NodeJs for backend and Angular for Front-end and NoSQL database like MongoDB, but also knowledgeable in PHP, Laravel, MySQL, and Relational Database. 
 
-- 🔭 I’m currently working at [IPC Logística](https://icplogistica.pt/)
+- 🔭 I’m currently working at [ICP Logística](https://icplogistica.pt/)
 
 - 👨‍💻 All of my projects are available at [eduardophilip.github](https://github.com/eduardophilip?tab=repositories)
 

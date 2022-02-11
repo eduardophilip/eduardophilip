@@ -7,7 +7,7 @@
 
 - 🔥 Junior Full-stack Web Developer
 
-- Focused on javascript ecosystem like NodeJs for backend and Angular for Front-end and NoSQL database like MongoDB, but also knowledgeable in PHP, Laravel, MySQL, and Relational Database. 
+- Focused on javascript ecosystem like NodeJs for backend building REST API's and Angular to Front-end but also learning C# to backend and working with Relational databases like MySQL and SQL Server, and NoSql databases like  MongoDB.
 
 - 🔭 I’m currently working at [ICP Logística](https://icplogistica.pt/)
 
@@ -24,6 +24,9 @@
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
+![C#](https://img.shields.io/badge/-CS-05122A?style=flat&logo=C#&logoColor=1572B6)&nbsp;
+
 
 ![PHP](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;

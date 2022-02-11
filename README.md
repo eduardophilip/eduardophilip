@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardophilip&color=blue" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer
+- 🔥 Junior Full-stack Web Developer
 
 - Focused on javascript ecosystem like NodeJs for backend and Angular for Front-end and NoSQL database like MongoDB, but also knowledgeable in PHP, Laravel, MySQL, and Relational Database. 
 

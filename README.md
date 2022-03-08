@@ -25,17 +25,21 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
-![C#](https://img.shields.io/badge/-CS-05122A?style=flat&logo=C#&logoColor=1572B6)&nbsp;
-
+![C#](https://img.shields.io/badge/-CS-05122A?style=flat&logo=csharp&logoColor=1572B6)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL%20server-05122A?style=flat&logo=microsoftsqlserver&logoColor=1572B6)&nbsp;
 
 ![PHP](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=WordPress&logoColor=1572B6)&nbsp;
 
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab&logoColor=1572B6)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20studio-05122A?style=flat&logo=visualstudio&logoColor=1572B6)&nbsp;
+
 
 
 <br><br>

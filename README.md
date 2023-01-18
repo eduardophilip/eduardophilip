@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardophilip&color=blue" alt="Profile views" /> </p>
 
-- 🔥 Junior Full-stack Web Developer
+- 🔥 Junior Software Developer
 
 - Focused on javascript ecosystem like NodeJs for backend building REST API's and Angular to Front-end but also learning C# to backend and working with Relational databases like MySQL and SQL Server, and NoSql databases like  MongoDB.
 
-- 🔭 I’m currently working at [ICP Logística](https://icplogistica.pt/)
+- 🔭 I’m currently working at [MedicineOne](https://www.medicineone.net/)
 
 - 👨‍💻 All of my projects are available at [eduardophilip.github](https://github.com/eduardophilip?tab=repositories)
 
